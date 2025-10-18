@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a master at the [ASC Lab](https://asc.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/). 
 
-My research interests include **Embodied AI（mainly VLA,VLN）, Vision-Language Model（VLM）, and Large Language Model（LLM）.**
+My research interests include **Embodied AI（mainly VLA, VLN）, Vision-Language Model（VLM）, and Large Language Model（LLM）.**
 
 我目前是厦门大学 ASC 实验室的硕士。
 
