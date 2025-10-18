@@ -24,6 +24,8 @@ Experience
 Publications
 ======
 
+<span style="color:red;">I need a CCF-A !!!</span>
+
 Competitions
 ======
 2023 ACM-ICPC College Student Programming Competition (Shandong) &nbsp;&nbsp;**Silver Medal !**
