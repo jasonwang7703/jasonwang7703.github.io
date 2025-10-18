@@ -17,9 +17,9 @@ My research interests include **Embodied AI（mainly VLA, VLN）, Vision-Languag
 
 Experience
 ======
-2026.9 - Present&nbsp;&nbsp;&nbsp;<img src="https://github.com/jasonwang7703/jasonwang7703.github.io/blob/master/_pages/2021010906351482.png?raw=true" alt="图标" width="4%" style="vertical-align: middle;">&nbsp;&nbsp;&nbsp;M.S. in Xiamen University 
+2026.9 - Present&nbsp;&nbsp;&nbsp;<img src="https://github.com/jasonwang7703/jasonwang7703.github.io/blob/master/_pages/2021010906351482.png?raw=true" alt="图标" width="4%" style="vertical-align: middle;">&nbsp;&nbsp;&nbsp;&nbsp;M.S. in Xiamen University 
 
-2022.9 - 2026.7&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jasonwang7703/jasonwang7703.github.io/blob/master/_pages/005Wv2zUly8gdilf28d6fj30ro0ro75r.jpg?raw=true" alt="图标" width="4.5%" style="vertical-align: middle;">&nbsp;&nbsp;B.S. in Shandong University of Science of Technology
+2022.9 - 2026.7&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jasonwang7703/jasonwang7703.github.io/blob/master/_pages/005Wv2zUly8gdilf28d6fj30ro0ro75r.jpg?raw=true" alt="图标" width="4.5%" style="vertical-align: middle;">&nbsp;&nbsp;&nbsp;B.S. in Shandong University of Science of Technology
 
 
 Publications
