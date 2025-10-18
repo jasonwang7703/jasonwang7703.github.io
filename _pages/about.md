@@ -17,7 +17,10 @@ Experience
 
 2022.9 - 2026.7 &nbsp;&nbsp;&nbsp;B.E in Shandong University of Science of Technology&nbsp;&nbsp;&nbsp;山东科技大学&nbsp;&nbsp;&nbsp;学士
  
-
 Publications
 ======
 
+Competitions
+======
+2023 ACM-ICPC College Student Programming Competition (Shandong) **Silver Medal!**
+2025 CCPC National Invitational Competition (Shandong) and Shandong University Student Programming Contest **Bronze Medal!**
