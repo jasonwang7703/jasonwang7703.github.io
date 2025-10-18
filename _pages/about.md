@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master at the [ASC Lab](https://asc.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/).I received my bachelor degree from the [Shandong University of Science and Technology](https://www.sdust.edu.cn/). My research interests include **<span style="color: red;">Embodied AI (mainly VLA,VLN), Vision-Language Model (VLM), and Large Language Model (LLM)**
+I am currently a master at the [ASC Lab](https://asc.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/).I received my bachelor degree from the [Shandong University of Science and Technology](https://www.sdust.edu.cn/). My research interests include **Embodied AI (mainly VLA,VLN), Vision-Language Model (VLM), and Large Language Model (LLM)**
+
+我目前是厦门大学 ASC 实验室的硕士研究生，本科毕业于山东科技大学。我的研究兴趣包括**具身智能（主要方向为 VLA、VLN）、视觉语言模型（VLM）以及大语言模型（LLM)**。
 
 Publications
 ======
