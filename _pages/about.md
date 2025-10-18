@@ -13,7 +13,7 @@ My research interests include **Embodied AI（mainly VLA,VLN）, Vision-Language
 
 我目前是厦门大学 ASC 实验室的硕士研究生。
 
-我的研究兴趣包括**具身智能（主要是 VLA、VLN）、视觉语言模型（VLM）以及大语言模型（LLM)。**
+我的研究兴趣包括 **具身智能（主要是 VLA、VLN）、视觉语言模型（VLM）以及大语言模型（LLM)。**
 
 Experience
 ======
