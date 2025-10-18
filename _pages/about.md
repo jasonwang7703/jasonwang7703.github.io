@@ -22,6 +22,6 @@ Publications
 
 Competitions
 ======
-2023 ACM-ICPC College Student Programming Competition (Shandong) &nbsp;&nbsp;&nbsp;**Silver Medal!**
+2023 ACM-ICPC College Student Programming Competition (Shandong) &nbsp;&nbsp;**Silver Medal !**
 
-2025 CCPC National Invitational Competition (Shandong) and Shandong University Student Programming Contest &nbsp;&nbsp;&nbsp;**Bronze Medal!**
+2025 CCPC National Invitational Competition (Shandong) and Shandong University Student Programming Contest &nbsp;&nbsp;**Bronze Medal !**
