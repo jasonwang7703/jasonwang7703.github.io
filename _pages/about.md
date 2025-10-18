@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master at the [ASC Lab](https://asc.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/).
+I am currently a master at the [ASC Lab](https://asc.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/).I received my bachelor degree from the [Shandong University of Science and Technology](https://www.sdust.edu.cn/). My research interests include Embodied AI(mainly VLA,VLN),Vision-Language Model(VLM),Large Language Model(LLM).
 
 A data-driven personal website
 ======
