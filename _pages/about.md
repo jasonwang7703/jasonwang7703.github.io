@@ -15,7 +15,7 @@ Experience
 ======
 2026.9 - Present&nbsp;&nbsp;&nbsp;M.S in Xiamen University&nbsp;&nbsp;&nbsp;厦门大学&nbsp;&nbsp;&nbsp;硕士
 
-2022.9 - 2026.7&nbsp;&nbsp;&nbsp;B.E in Shandong University of Science of Technology&nbsp;&nbsp;&nbsp;山东科技大学&nbsp;&nbsp;&nbsp;学士
+2022.9 - 2026.7 &nbsp;&nbsp;&nbsp;B.E in Shandong University of Science of Technology&nbsp;&nbsp;&nbsp;山东科技大学&nbsp;&nbsp;&nbsp;学士
  
 
 Publications
