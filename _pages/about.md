@@ -17,7 +17,8 @@ My research interests include **Embodied AI（mainly VLA,VLN）, Vision-Language
 
 Experience
 ======
-2026.9 - Present&nbsp;&nbsp;&nbsp;M.S in Xiamen University ![](images/2021010906351482.png)
+2026.9 - Present&nbsp;&nbsp;&nbsp;<img src="2021010906351482.png" alt="图标" height="40" style="vertical-align: middle;">&nbsp;&nbsp;M.S in Xiamen University 
+
 
 2022.9 - 2026.7 &nbsp;&nbsp;&nbsp;B.E in Shandong University of Science of Technology
  
