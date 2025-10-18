@@ -30,6 +30,6 @@ Competitions
 ======
 2024 ACM-ICPC National Invitational Competition (Yinchuan) &nbsp;&nbsp;**Silver Medal !** 🥈
 
-2023 ACM-ICPC Province Competition (Shandong) &nbsp;&nbsp;**Silver Medal !** 🥈
+2023 ACM-ICPC Provincial Competition (Shandong) &nbsp;&nbsp;**Silver Medal !** 🥈
 
-2025 CCPC Province Competition (Shandong) &nbsp;&nbsp;**Bronze Medal !** 🥉
+2025 CCPC Provincial Competition (Shandong) &nbsp;&nbsp;**Bronze Medal !** 🥉
