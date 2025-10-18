@@ -13,9 +13,9 @@ I am currently a master at the [ASC Lab](https://asc.xmu.edu.cn/), [Xiamen Unive
 
 Experience
 ======
-2026.9 - Present   Xiamen University   厦门大学   硕士
+2026.9 - Present&nbsp;&nbsp;Xiamen University&nbsp;&nbsp;厦门大学&nbsp;&nbsp;硕士
 
-2022.9 - 2026.7   Shandong University of Science of Technology   山东科技大学   学士
+2022.9 - 2026.7&nbsp;&nbsp;Shandong University of Science of Technology&nbsp;&nbsp;山东科技大学&nbsp;&nbsp;学士
  
 
 Publications
