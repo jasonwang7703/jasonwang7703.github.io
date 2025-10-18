@@ -17,10 +17,9 @@ My research interests include **Embodied AI（mainly VLA,VLN）, Vision-Language
 
 Experience
 ======
-2026.9 - Present&nbsp;&nbsp;&nbsp;<img src="2021010906351482.png" alt="图标" height="40" style="vertical-align: middle;">&nbsp;&nbsp;M.S in Xiamen University 
+2026.9 - Present&nbsp;&nbsp;&nbsp;<img src="2021010906351482.png" alt="图标" height="45" style="vertical-align: middle;">&nbsp;&nbsp;&nbsp;M.S in Xiamen University 
 
-
-2022.9 - 2026.7 &nbsp;&nbsp;&nbsp;B.E in Shandong University of Science of Technology
+2022.9 - 2026.7&nbsp;&nbsp;&nbsp;&nbsp;<img src="005Wv2zUly8gdilf28d6fj30ro0ro75r.jpg" alt="图标" height="50" style="vertical-align: middle;">&nbsp;&nbsp;B.E in Shandong University of Science of Technology
  
 Publications
 ======
@@ -29,6 +28,6 @@ Publications
 
 Competitions
 ======
-2023 ACM-ICPC College Student Programming Competition (Shandong) &nbsp;&nbsp;**Silver Medal !**
+2023 ACM-ICPC College Student Programming Competition (Shandong) &nbsp;&nbsp;**Silver Medal !** 🥉
 
-2025 CCPC National Invitational Competition (Shandong) and Shandong University Student Programming Contest &nbsp;&nbsp;**Bronze Medal !**
+2025 CCPC National Invitational Competition (Shandong) and Shandong University Student Programming Contest &nbsp;&nbsp;**Bronze Medal !** 🥈
