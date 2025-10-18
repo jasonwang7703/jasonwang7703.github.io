@@ -32,4 +32,4 @@ Competitions
 
 2023 ACM-ICPC Province Competition (Shandong) &nbsp;&nbsp;**Silver Medal !** 🥈
 
-2025 CCPC Province Competition (Shandong) and Shandong University Student Programming Contest &nbsp;&nbsp;**Bronze Medal !** 🥉
+2025 CCPC Province Competition (Shandong) &nbsp;&nbsp;**Bronze Medal !** 🥉
