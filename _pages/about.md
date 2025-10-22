@@ -9,11 +9,11 @@ redirect_from:
 
 I am currently a master at the [Xiamen University](https://informatics.xmu.edu.cn/). 
 
-My research interest is **Embodied AI (mainly VLA,VLN)**
+My research interests include **Embodied AI, Multimodal Large Language Model.**
 
 我目前是厦门大学信息学院的硕士。
 
-我的研究兴趣是 **具身智能（主要是 VLA、VLN）**
+我的研究兴趣包括 **具身智能，多模态大模型**
 
 Experience
 ======
