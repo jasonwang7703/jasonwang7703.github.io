@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a master at the [Xiamen University](https://informatics.xmu.edu.cn/). 
 
-My research interests include **Embodied AI, Multimodal Large Language Model (MLLM).**
+My research interests include **Embodied AI (VLN, VLA-Manipulation), Multimodal Large Language Model (MLLM).**
 
 我目前是厦门大学信息学院的硕士。
 
